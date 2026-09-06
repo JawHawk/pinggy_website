@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "sites": [
+    {
+      "key": "docs",
+      "display_name": "Docs",
+      "website_url": "https://pinggy.io/docs",
+      "root_path": ""
+    }
+  ]
+}
